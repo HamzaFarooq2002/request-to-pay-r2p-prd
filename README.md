@@ -1,6 +1,7 @@
 🔹 Request 2 Pay (R2P) – Product Requirements Document
 
 Author: Hamza Farooq
+URL: https://www.figma.com/design/ZLRDc2UeU0QbTl20VCAMkC/Request-2-Payment?node-id=0-1&t=qL1lFaeDSxMfvprJ-1
 
 Designed a comprehensive Product Requirements Document (PRD) for introducing Request 2 Pay (R2P) in the Pakistani digital payments ecosystem — a feature currently underutilized despite strong market demand.
 
